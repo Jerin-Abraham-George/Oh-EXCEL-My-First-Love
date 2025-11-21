@@ -3,6 +3,8 @@
 ## 📘 Overview
 The **Adidas Sales Analysis Dashboard** is an interactive Excel-based analytics solution designed to deliver insights across product categories, sales channels, and U.S. regions. It helps users understand revenue trends, customer preferences, and high-performing markets for better decision-making.
 
+https://github.com/user-attachments/assets/56298bb3-2ca2-4610-9f74-e403a96dabc8
+
 ---
 
 ## 🎯 Objectives
@@ -13,8 +15,6 @@ The **Adidas Sales Analysis Dashboard** is an interactive Excel-based analytics 
 - Explore monthly and weekday revenue trends.
 
 ---
-
-## 🔑 Key Features
 
 ### 📌 KPI Highlights
 - Total Revenue  
